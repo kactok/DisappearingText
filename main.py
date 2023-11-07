@@ -4,6 +4,7 @@ import time
 
 # Desktop app
 # Don't stop typing otherwise the text will disappear after 5 sec
+# Later on you can see your last text in 'your_last_text.txt'
 
 # number of letters that user has written so far
 characters = 0
